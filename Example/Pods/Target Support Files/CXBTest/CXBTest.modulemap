@@ -1,0 +1,6 @@
+framework module CXBTest {
+  umbrella header "CXBTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_CXBTest_Example {
+  umbrella header "Pods-CXBTest_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
