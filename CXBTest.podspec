@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CXBTest'
-  s.version          = '1.2.2'
+  s.version          = '1.2.3'
   s.summary          = 'CXBTest. 测试一下github上的代码怎么用cocoapods管理'
 
 # This description is used to generate tags and improve search results.
